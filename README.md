@@ -7,6 +7,7 @@ For background and theoretical context, see (and references therein): arXiv:2510
 The script injective_norm_descent.py generates random antisymmetric tensors of order p and dimension d, computes an approximation of the injective norm, and saves results to JSON.
 
 The notebook Plotter.ipynb provides tools to load multiple JSON result files, group data by dimension, plot mean ± standard deviation of the injective norm and apply different normalization schemes.
+
 **Notes**:
 Works best for tensor order p = 3 or 4
 Optimization yields a numerical approximation
