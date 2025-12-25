@@ -8,9 +8,9 @@ The script injective_norm_descent.py generates random antisymmetric tensors of o
 
 The notebook Plotter.ipynb provides tools to load multiple JSON result files, group data by dimension, plot mean ± standard deviation of the injective norm and apply different normalization schemes.
 
-**Notes**:
-Works best for tensor order p = 3 or 4\\
-Optimization yields a numerical approximation\\
+**Notes**:  
+Works best for tensor order p = 3 or 4  
+Optimization yields a numerical approximation  
 Random seeds influence results slightly
 
 ## Requirements
